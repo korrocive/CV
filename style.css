@@ -1,0 +1,59 @@
+body{
+	
+}
+img {
+	width:115px;
+	
+}
+img:hover {
+	width:20%;
+	height:20%;
+}
+header{
+	background:#efefef;
+	/*background: -moz-linear-gradient(right, #ccc, #fff 70%);*/
+	-moz-transform: rotate(0deg);
+	border-radius:5px;
+	padding:0 0 20px 10px;
+	}
+header h1 {display: inline;}
+header:hover{
+	background:#ddd;
+	/*-moz-transform: rotate(360deg);
+	-moz-transition-property: -moz-transform;
+	-moz-transition-duration: 1s ;*/
+
+}
+ #technical_skills h2,#academic_projects h2, #education h2,#research_interests h2{
+ 
+	padding-left:10px;
+ /*
+	background: #e2e2e2; 
+	background: -moz-linear-gradient(top,  #e2e2e2 0%, #dbdbdb 50%, #d1d1d1 51%, #fefefe 100%); */
+/*
+	background: rgb(255,255,255); 
+	background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(241,241,241,1) 50%, rgba(225,225,225,1) 51%, rgba(246,246,246,1) 100%); */
+/*	color:white;
+	background: rgb(181,189,200); 
+	background: -moz-linear-gradient(top,  rgba(181,189,200,1) 0%, rgba(40,52,59,1) 31%); */
+	color:white;
+	background: rgb(181,189,200); 
+	background: -moz-linear-gradient(top,  rgba(181,189,200,1) 0%, rgba(130,140,149,1) 26%, rgba(40,52,59,1) 100%); 
+
+}
+.btn {
+	background-color:green;
+}
+.fadelink {color: #333333;}
+.container {	
+	border-width: 10px;
+	border-color:#000;
+}
+.vcard {
+	
+}
+
+#separation { 
+	margin-top:10px;
+	margin-bottom:-10px;
+}
